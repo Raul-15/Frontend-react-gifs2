@@ -1,0 +1,14 @@
+Para que el codigo quede ordenado se debe quitar el prettier
+Hiper terminal es bueno
+Giphy developers
+Si fetch es inutilizado, utilizar fetch de polyfill llamando unfetch
+
+MINUTO 19:30
+24:34
+
+
+1:01:59
+
+wouter es una alternativa a react router dom
+npm i wouter
+- Link para que no se vuelvam a refrescar las paginas
